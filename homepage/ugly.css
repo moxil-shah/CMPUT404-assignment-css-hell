@@ -1,0 +1,47 @@
+#big-bar {
+  background-color: #c96565;
+  padding: 20px;
+}
+
+#content {
+  background: #2ba7ff;
+  width: 45%;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+li {
+  font-family: "Comic Sans MS", "Comic Sans";
+  font-size: xx-large;
+  color: #dd00ff;
+}
+
+li {
+  color: rgb(5, 255, 17);
+  font-size: large;
+  font-weight: 900;
+}
+
+.sideBarContent {
+  font-family: "Comic Sans MS", "Comic Sans";
+  padding-top: 2em;
+  color: blueviolet;
+  font-weight: bold;
+  font-size: xx-large;
+  width: 80%;
+}
+
+body {
+  text-align: center;
+}
+
+html {
+  background-color: aqua;
+}

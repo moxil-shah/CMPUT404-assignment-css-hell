@@ -1,4 +1,4 @@
-Assignment: CSS Hell
+Assignment: CSS Hell - Moxil Shah
 ====================
 
 You will skin 3 project gutenberg stories with custom CSS.
@@ -11,6 +11,11 @@ Read requirements.org
 Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
+
+Docs:
+====================
+For the html for all the 3 gutenberg documents, I removed the
+in-HTML CSS styling and added a link to my custom CSS file.
 
 License/Copyright
 =================
